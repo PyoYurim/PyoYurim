@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PyoYurim&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyoYurim&layout=compact&theme=onedark)](https://github.com/PyoYurim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PyoYurim&layout=compact&theme=radical)](https://github.com/PyoYurim/github-readme-stats)
 
 
 <!--
